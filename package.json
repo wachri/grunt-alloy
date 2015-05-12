@@ -44,6 +44,6 @@
     "appcelerator"
   ],
   "dependencies": {
-    "alloy": "wachri/alloy#feature/speedup-compile"
+    "alloy": "wachri/alloy"
   }
 }
